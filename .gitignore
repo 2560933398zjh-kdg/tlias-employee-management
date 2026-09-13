@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 密钥与本地配置
+.env
+.env.local
+application-local.properties
+application-local.yml
+
+# 其他
+*.class
+*.log
+.DS_Store
